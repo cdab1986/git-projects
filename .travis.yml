@@ -6,7 +6,7 @@ deploy:
   provider: appfog
   email: zjh459@gmail.com
   password:
-    secure: L4OYciVURyq6TsP0ndo2uoNiHRVS+mQ9ILIX1KhCr8uE9PL4wvRhg2lja1l/kSDEmdwexIKKIg88aRtq3o6NEz1qtyz3y37QYLX3UI+FQl2d8Pfy3oKkrbqSw2h0Baieays94fjivmRcMay3qs49p5A+dYliNKYXGYYrMQbFyG4=
-  app: gittest
+    secure: HLIjcP8OSEJiKtVT4DJRysWgheMXTj8Xu2MhzObtdSsLPPCBY7ThB8pthAfo2XDpSSgM+9e/NYrPovMEaBSKLS7bnE1ke6xxaAzfqHcdx1eQhRgeC8pJZLvYcuio/nf2tGeYkvvg1Cxqkan6qMiPPsXjad9Jt9xP/3Ov5XYYZJs=
+  app: oftest
   on:
     repo: zjh459/git-projects
