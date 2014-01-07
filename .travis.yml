@@ -4,7 +4,6 @@ jdk:
 - openjdk6
 script:
 - mvn clean package
-- rm -rf /home/travis/build/zjh459/git-projects/target/git-sample/*
 deploy:
   provider: appfog
   email: zjh459@gmail.com
