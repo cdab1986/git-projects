@@ -2,3 +2,11 @@ language: java
 jdk:
 - oraclejdk7
 - openjdk6
+deploy:
+  provider: appfog
+  email: zjh459@gmail.com
+  password:
+    secure: L4OYciVURyq6TsP0ndo2uoNiHRVS+mQ9ILIX1KhCr8uE9PL4wvRhg2lja1l/kSDEmdwexIKKIg88aRtq3o6NEz1qtyz3y37QYLX3UI+FQl2d8Pfy3oKkrbqSw2h0Baieays94fjivmRcMay3qs49p5A+dYliNKYXGYYrMQbFyG4=
+  app: gittest
+  on:
+    repo: zjh459/git-projects
