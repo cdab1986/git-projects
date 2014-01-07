@@ -8,7 +8,7 @@ deploy:
   provider: appfog
   email: zjh459@gmail.com
   password:
-    secure: VliKuSYS8SSkfqj781T7rjOxPQ466hf1tX7KlICS0EpJiTtbFoeLul7ra01KfQBNqqiwyl0zYFP2oYahdOlIiGiy7MkTL9mRtGdGh7t5Zsy1PKYuqwrHQdwVc8Y3ghE9EdYdlQ8j2hW7hACDoqAGK/cnzfOEcxW6Kt1guzYuaDM=
-  app: oftest2
+    secure: RSn6ve64vjvkDREzQpc8qURze+pOqo80krNsu2Jlcj3F/IMbjBZwH6jKlFl47EDYE4byWTiOnwX2otywMedAbgtVOHfojXGnVyDqvQX3YL/BSK9UpS6BA0qAtV6YcLAItIT34wlKRcc5sPto9xdmec14hLUSUW3+DNjL8g4WRSU=
+  app: oftest3
   on:
     repo: zjh459/git-projects
