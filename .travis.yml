@@ -6,7 +6,7 @@ deploy:
   provider: appfog
   email: zjh459@gmail.com
   password:
-    secure: HLIjcP8OSEJiKtVT4DJRysWgheMXTj8Xu2MhzObtdSsLPPCBY7ThB8pthAfo2XDpSSgM+9e/NYrPovMEaBSKLS7bnE1ke6xxaAzfqHcdx1eQhRgeC8pJZLvYcuio/nf2tGeYkvvg1Cxqkan6qMiPPsXjad9Jt9xP/3Ov5XYYZJs=
-  app: oftest
+    secure: VliKuSYS8SSkfqj781T7rjOxPQ466hf1tX7KlICS0EpJiTtbFoeLul7ra01KfQBNqqiwyl0zYFP2oYahdOlIiGiy7MkTL9mRtGdGh7t5Zsy1PKYuqwrHQdwVc8Y3ghE9EdYdlQ8j2hW7hACDoqAGK/cnzfOEcxW6Kt1guzYuaDM=
+  app: oftest2
   on:
     repo: zjh459/git-projects
