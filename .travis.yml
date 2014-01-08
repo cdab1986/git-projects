@@ -2,6 +2,9 @@ language: java
 jdk:
 - oraclejdk7
 - openjdk6
+script:
+- cd target
+- af update oftest3
 deploy:
   provider: appfog
   email: zjh459@gmail.com
