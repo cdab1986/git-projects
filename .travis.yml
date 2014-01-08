@@ -12,3 +12,4 @@ deploy:
   app: oftest3
   on:
     repo: zjh459/git-projects
+  skip_cleanup: true
