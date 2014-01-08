@@ -3,7 +3,7 @@ jdk:
 - oraclejdk7
 - openjdk6
 after_success:
-  - cp target/git-sample.war
+  - cp target/git-sample.war .
 deploy:
   provider: appfog
   email: zjh459@gmail.com
