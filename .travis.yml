@@ -2,8 +2,8 @@ language: java
 jdk:
 - oraclejdk7
 - openjdk6
-after_success:
-  - cp target/*.war .
+#after_success:
+#  - cp target/*.war .
 deploy:
   provider: appfog
   email: zjh459@gmail.com
@@ -13,5 +13,6 @@ deploy:
   on:
     repo: zjh459/git-projects
   skip_cleanup: true
+  path: target
 #after_deploy:
 #- cd /home/travis/build/zjh459/git-projects/target/ && af update oftest3
